@@ -48,6 +48,7 @@
     font-size: 20px;
     margin-left: 50px;
     gap: 100px;
+   
 }
 
 .imgs {
@@ -62,4 +63,16 @@
     display: flex;
     gap: 40px;
     margin-left: 50px;
+}
+.class{
+    margin: 20px;
+    padding: 20px;
+    background-color: #000;
+    width: 540px;
+    height: 900px; 
+    margin: 0 auto;
+}
+.img-{
+    width: 400px;
+    height: 500px;
 }
