@@ -10,6 +10,8 @@
     margin: 20px;
     padding: 20px;
     background-color: #000;
+    width: 1240px;
+    height: 700px;
 }
 
 .ul {
@@ -51,7 +53,8 @@
 .imgs {
     background-color: #363535;
     border-radius: 10px;
-    width: 510px;
+    width: 400px;
+    height: 400px;
 }
 
 .header {
