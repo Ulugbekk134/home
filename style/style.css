@@ -48,7 +48,7 @@
     font-size: 20px;
     margin-left: 50px;
     gap: 100px;
-   
+
 }
 
 .imgs {
@@ -64,15 +64,17 @@
     gap: 40px;
     margin-left: 50px;
 }
-.class{
+
+.class {
     margin: 20px;
     padding: 20px;
     background-color: #000;
     width: 540px;
-    height: 900px; 
+    height: 900px;
     margin: 0 auto;
 }
-.img-{
+
+.img- {
     width: 400px;
     height: 500px;
 }
